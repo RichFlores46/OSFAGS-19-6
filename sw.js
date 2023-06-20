@@ -27,8 +27,8 @@ const APP_SHELL =[
 "https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha3/dist/js/bootstrap.bundle.min.js",
 "https://cdn.jsdelivr.net/npm/uikit@3.16.19/dist/css/uikit.min.css",
 "cdn.jsdelivr.net/npm/uikit@3.16.19/dist/js/uikit.min.js",
-"https://cdn.jsdelivr.net/npm/uikit@3.16.19/dist/js/uikit-icons.min.js"
-
+"https://cdn.jsdelivr.net/npm/uikit@3.16.19/dist/js/uikit-icons.min.js",
+"https://connect.facebook.net/es_LA/sdk.js#xfbml=1&version=v17.0"
 ];
 //Se agrega links de bootstrap, css y js
 
